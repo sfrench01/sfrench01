@@ -1,4 +1,4 @@
-[Home](/index.html) | [About me](/aboutme.html) 
+[Home](/sfrench01/index.html) | [About me](/sfrench01/aboutme.html) 
 
 # About me
 
