@@ -1,4 +1,4 @@
-[Home](/sfrench01/index.html) | [About me](/sfrench01/AboutMe.html) 
+[Home](/sfrench01/index.html) | [About Me](/sfrench01/AboutMe.html) 
 
 # Skyla's Investigative Practice
 
